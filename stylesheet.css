@@ -1,0 +1,40 @@
+#header { 	height: 45px;
+			margin-bottom: 3px;
+			background-color:#4169e1;
+			color:white;
+			font-size:25px;
+			
+		}	
+		
+#search { 	height:25px;
+			margin: -20px;
+			background-color:white;
+			width:256px;
+			margin-left: 150px;
+			
+		}	
+.left {		float:left;
+			background-color:#87ceeb;
+			height:400px;
+			width:150px;
+			margin-bottom:10px;
+			
+	}			
+.right {		float:right;
+			background:#87ceeb;
+			height:400px;
+			width:150px;
+		}
+#bottom { 	background-color:#4169e1;
+			height:100px;
+			clear:both;
+		}
+
+.middle { 	align:center;
+			height:250px;
+			width:150px;
+			background-color:red;
+			
+			}
+div img { width:28px;
+		height:28px; }
